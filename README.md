@@ -6,6 +6,7 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieldias0312@gmail.com) 
 
 ![Daniel Dias GitHub stats](https://github-readme-stats.vercel.app/api?username=Danieldiaxf&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ## Linguagens e Ferramentas 🛠️
 
