@@ -5,18 +5,23 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561999523338?text=) 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieldias0312@gmail.com) 
 
-![Daniel Dias GitHub stats](https://github-readme-stats.vercel.app/api?username=Danieldiaxf&show_icons=true&theme=tokyonight)
+<div>
+
+<a href= "https://github.com/Danieldiaxf" >
+<img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Danieldiaxf&show_icons=true&theme=dark&include_all_commits=true"/ >
+<img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danieldiaxf&layout=compact&langs_count=16&theme=dark" />
+    
+</div>
 
 ## Languages ​​and Tools 🛠️
 
 <div style="display: inline_block"><br/>
-    <img align="center"  alt="html"  src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-    <img align="center"  alt="html"  src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img align="center"  alt="html"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center"  alt="css"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center"  alt="JS"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center"  alt="boot"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img align="center"  alt="boot"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center"  alt="boot"  src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-    
+    <img height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
+    <img height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />  
+    <img height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />  
+    <img height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
+    <img height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
+    <img height = "40" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />  
 </div>
