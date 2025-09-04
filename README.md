@@ -42,8 +42,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Danieldiaxf/Danieldiaxf/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/Danieldiaxf/Danieldiaxf/blob/output/github-contribution-grid-snake2.svg)
 
 ###
